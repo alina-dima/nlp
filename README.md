@@ -1,4 +1,4 @@
-# A Study on Errors in Multilingual Machine Translationlp
+# A Study on Errors in Multilingual Machine Translation
 
 ## Dataset: https://huggingface.co/datasets/GroNLP/divemt
 ## Paper Sarti: https://arxiv.org/abs/2205.12215
