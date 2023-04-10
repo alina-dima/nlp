@@ -18,7 +18,7 @@ This notebook generates the plots for the following tasks:
 - in depth analysis of the errors distribution across all languages and across different linguistic features:
 
     - part-of-speech (POS)
-    - name entity relations (NER)
+    - named-entity recognition (NER)
     - dependency relations (deprel)
 
 
